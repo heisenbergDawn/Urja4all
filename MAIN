@@ -1,0 +1,22 @@
+solar-epc-mvp/
+  package.json
+  vite.config.js
+  postcss.config.js
+  tailwind.config.cjs
+  index.html
+  src/
+    main.jsx
+    App.jsx
+    styles/
+      index.css
+    components/
+      Header.jsx
+      Landing.jsx
+      ProjectOwnerDashboard.jsx
+      ContractorDashboard.jsx
+      AdminDashboard.jsx
+      ProjectForm.jsx
+      ProjectList.jsx
+      BidList.jsx
+      AnalyticsOverview.jsx
+      Toast.jsx
