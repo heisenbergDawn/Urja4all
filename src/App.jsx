@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Header from "./components/Header.jsx";
+import Header from "./components/Header";
 import Landing from "./components/Landing.jsx";
 import ProjectOwnerDashboard from "./components/ProjectOwnerDashboard.jsx";
 import ContractorDashboard from "./components/ContractorDashboard.jsx";
